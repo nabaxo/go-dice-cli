@@ -1,7 +1,8 @@
 # Dead simple dice-rolling application
 Just a small CLI app I wrote in Go for fun, for my own use.
 
-> [!CAUTION] This is the first thing I wrote in Go, I know the code is trash.
+> [!CAUTION]
+> This is the first thing I wrote in Go, I know the code is trash.
 
 It uses [Random.org](random.org), so if you wanna run it yourself, you need to create a file that's called `apikey` with, well, your [Random.org API key](https://api.random.org/dashboard) and put it in the root/next to the binary.
 ### Build script for a smaller binary (requires UPX to be installed)
