@@ -1,4 +1,4 @@
-# Dead simple dice-rolling
+# Dead simple dice-rolling application
 Just a small CLI app I wrote in Go for fun, for my own use.
 
   > [!BUG] This is the first thing I wrote in Go, I know the code is trash.
